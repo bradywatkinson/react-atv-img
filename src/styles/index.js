@@ -35,10 +35,8 @@ const styles = {
 
   renderedLayer: {
     position: 'absolute',
-    width: '104%',
-    height: '104%',
-    top: '-2%',
-    left: '-2%',
+    width: '100%',
+    height: '100%',
     backgroundRepeat: 'no-repeat',
     backgroundPosition: 'center',
     backgroundColor: 'transparent',
