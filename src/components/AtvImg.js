@@ -2,7 +2,7 @@ import React, { Component, PropTypes } from 'react';
 
 import styles from '../styles';
 
-export default class AtvImg extends Component {
+class AtvImg extends Component {
   static propTypes = {
     layers: PropTypes.arrayOf(PropTypes.string).isRequired,
     isStatic: PropTypes.bool,
@@ -147,3 +147,5 @@ export default class AtvImg extends Component {
     );
   }
 }
+
+module.exports = ReactDOM;
