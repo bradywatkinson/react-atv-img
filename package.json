@@ -13,6 +13,9 @@
     "example": "NODE_ENV=development node devServer.js",
     "build:static": "NODE_ENV=production webpack && cp ./example/index.html ./dist/index.html"
   },
+  "files": [
+    "src"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bradywatkinson/react-atv-img.git"
