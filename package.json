@@ -2,7 +2,7 @@
   "name": "react-atv-img",
   "version": "0.1.2",
   "description": "A port of @keyanzhang’s atvImg (Apple TV 3D parallax effect) library in React",
-  "main": "lib/index.js",
+  "main": "./lib/index.js",
   "scripts": {
     "clean": "rimraf lib dist",
     "build": "NODE_ENV=production babel src --out-dir lib",
