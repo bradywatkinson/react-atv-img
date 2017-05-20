@@ -1,3 +1,3 @@
 'use strict';
 
-module.exports = require('./compontents/AtvImg');
+module.exports = require('./components/AtvImg');
