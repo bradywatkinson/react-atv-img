@@ -1,1 +1,3 @@
-export default from './components/AtvImg';
+'use strict';
+
+module.exports = require('./compontents/AtvImg');
